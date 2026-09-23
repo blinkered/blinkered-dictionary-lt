@@ -8,7 +8,7 @@ the curve a careful builder would get, not the order this repository happens to 
 The first two families keep nothing, which is not padding — it is the shape of a rule that needs
 three independent sources.
 
-Candidates: 202,690. Shipped: 90,749.
+Candidates: 202,690. Shipped: 97,922.
 
 Of 13 families, **12 can be checked by fetching** —
 a stable identifier or a page we fetched ourselves. The other 1 are crawls
@@ -17,18 +17,18 @@ it is their published corpus, not the web.
 
 | families | added | kept | coverage | gained |
 | --- | --- | --- | --- | --- |
-| 1 | `wikimedia` | 0 | 0.0% | — |
-| 2 | `leipzig` | 0 | 0.0% | — |
-| 3 | `internetarchive` | 76,273 | 37.6% | +76,273 |
-| 4 | `tatoeba` | 82,209 | 40.6% | +5,936 |
-| 5 | `literaturairmenas.lt` | 85,341 | 42.1% | +3,132 |
-| 6 | `diena.lt` | 86,879 | 42.9% | +1,538 |
-| 7 | `15min.lt` | 88,024 | 43.4% | +1,145 |
-| 8 | `ebible` | 88,937 | 43.9% | +913 |
-| 9 | `delfi.lt` | 89,681 | 44.2% | +744 |
-| 10 | `lrt.lt` | 90,193 | 44.5% | +512 |
-| 11 | `vz.lt` | 90,477 | 44.6% | +284 |
-| 12 | `respublika.lt` | 90,625 | 44.7% | +148 |
-| 13 | `lrytas.lt` | 90,749 | 44.8% | +124 |
+| 1 | `internetarchive` | 0 | 0.0% | — |
+| 2 | `wikimedia` | 0 | 0.0% | — |
+| 3 | `leipzig` | 86,534 | 42.7% | +86,534 |
+| 4 | `tatoeba` | 91,712 | 45.2% | +5,178 |
+| 5 | `literaturairmenas.lt` | 94,219 | 46.5% | +2,507 |
+| 6 | `ebible` | 95,160 | 46.9% | +941 |
+| 7 | `diena.lt` | 96,074 | 47.4% | +914 |
+| 8 | `15min.lt` | 96,762 | 47.7% | +688 |
+| 9 | `delfi.lt` | 97,211 | 48.0% | +449 |
+| 10 | `lrt.lt` | 97,546 | 48.1% | +335 |
+| 11 | `vz.lt` | 97,721 | 48.2% | +175 |
+| 12 | `respublika.lt` | 97,837 | 48.3% | +116 |
+| 13 | `lrytas.lt` | 97,922 | 48.3% | +85 |
 
-**Diminishing returns from family 5** (`literaturairmenas.lt`, +3,132), where a family first added less than a twentieth of what the best one did.
+**Diminishing returns from family 5** (`literaturairmenas.lt`, +2,507), where a family first added less than a twentieth of what the best one did.

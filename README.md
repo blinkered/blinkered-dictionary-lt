@@ -5,7 +5,7 @@ The Lithuanian word list, and the evidence for every word in it.
 Built by [`blinkered-attestation`](https://github.com/blinkered/blinkered-attestation). The rule,
 the evidence format and the reasoning live there; what lives here is Lithuanian.
 
-**90,749 of 202,690 candidates proved: 44.8%**, across 13 independent
+**97,922 of 202,690 candidates proved: 48.3%**, across 13 independent
 families, 12 of which a stranger could check by fetching.
 
 ## What is in this repository
@@ -41,13 +41,13 @@ where to get it again, which is what makes the downloads disposable.
 
 ## What is particular to Lithuanian
 
-**The Archive is the family that decides Lithuanian.** Wikipedia (119,202 of the candidates) and
-Leipzig (104,640, most of it a 2016 news crawl) see a great deal, and the third family is where
-words stop. The Archive shelf alone rescues 76,273 words at that step, because its books reach
-the literary register and the participles a newspaper rarely prints. A harvest of eight Lithuanian
-publishers added about 7,600 more, led by the literary weekly *Literatūra ir menas*; each
-publisher is a family of its own, and `searched.tsv` records counts per page, never text.
-`bernardinai.lt` and `alfa.lt` returned nothing. Project Gutenberg has no Lithuanian text.
+**The Archive, Wikipedia and Leipzig do almost all of it.** Wikipedia sees 119,202 of the
+candidates, Leipzig 104,640 (most of it a 2016 news crawl) and the Archive's 187 books (what
+remained after weeding) 132,898; any two of them keep nothing, and the third keeps 86,534 words.
+The books reach the literary register and the participles a newspaper rarely prints. A harvest of
+eight Lithuanian publishers added about 5,300 more, led by the literary weekly *Literatūra ir
+menas*; each publisher is a family of its own, and `searched.tsv` records counts per page, never
+text. `bernardinai.lt` and `alfa.lt` returned nothing. Project Gutenberg has no Lithuanian text.
 
 **The Archive shelf is queried by ISO code.** The most downloaded items the Archive files under the
 English name "Lithuanian" include Spanish, Indonesian and Berber uploads, so `language:lit` is used
@@ -61,14 +61,14 @@ candidate list back as headwords, which is not usage.
 citation tags that the shared reader does not strip. Both are attested by a dozen collections, so
 both belong in the list; only their tier is inflated.
 
-**Every one of the 32 tiles spells something**, the ogoneks and the dotted Ė included. 0.6% of
-the shipped list is also in Blinkered's English candidates, all homographs (KAS, PER, MAN).
+**Every one of the 32 tiles spells something**, the ogoneks and the dotted Ė included. 0.6% of the
+shipped list is also in Blinkered's English candidates, all homographs (KAS, PER, MAN).
 
 **No FineWeb-2.** Its 4.8GB Lithuanian shard was not fetched because the disk was nearly full. It
 is declared in `sources.mjs` and skipped when absent.
 
-Of the 111,941 dropped candidates, 30,853 were seen by two families and are one short;
-30,871 were seen by one, and 50,217 by none at all.
+Of the 104,768 dropped candidates, 31,776 were seen by two families and are one short;
+29,187 were seen by one, and 43,805 by none at all.
 
 ## Rebuilding
 

@@ -13,7 +13,7 @@ collection rather than reuse its record only has to put the file back where the 
 | collection | tokens | what it is | where it came from |
 | --- | ---: | --- | --- |
 | `wiki:lt` | 40,782,194 | Lithuanian Wikipedia; modern encyclopedic prose | [ltwiki.xml.bz2](https://dumps.wikimedia.org/ltwiki/latest/ltwiki-latest-pages-articles.xml.bz2) |
-| `ia` | 5,766,621 | Internet Archive Lithuanian books; literature, and the register a newspaper never reaches | [archive-lt](https://archive.org/search?query=language%3Alit%20AND%20mediatype%3Atexts) |
+| `ia` | 15,643,499 | Internet Archive Lithuanian books; literature, and the register a newspaper never reaches | [archive-lt](https://archive.org/search?query=language%3Alit%20AND%20mediatype%3Atexts) |
 | `lz:lit_newscrawl_2016_1M` | 4,156,616 | Leipzig lit_newscrawl_2016_1M; modern news, cited by the page each sentence came from | [lit_newscrawl_2016_1M](https://downloads.wortschatz-leipzig.de/corpora/lit_newscrawl_2016_1M.tar.gz) |
 | `wikisource:lt` | 935,177 | Lithuanian Wikisource; same Wikimedia family, so it corroborates rather than counts | [ltwikisource.xml.bz2](https://dumps.wikimedia.org/ltwikisource/latest/ltwikisource-latest-pages-articles.xml.bz2) |
 | `tat` | 633,014 | Tatoeba Lithuanian; contemporary and conversational | [lit_sentences.tsv](https://downloads.tatoeba.org/exports/per_language/lit/lit_sentences.tsv.bz2) |
