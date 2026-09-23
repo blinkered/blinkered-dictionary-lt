@@ -1,0 +1,107 @@
+{
+  "language": "lt",
+  "built": "2026-09-23",
+  "candidates": 202690,
+  "shipped": 90749,
+  "ships": "pending",
+  "decided": null,
+  "why": null,
+  "license": "CC0-1.0",
+  "conforms": true,
+  "families": 13,
+  "checkable": 12,
+  "knee": 5,
+  "steps": [
+    {
+      "families": 1,
+      "added": "wikimedia",
+      "kept": 0,
+      "share": 0,
+      "gained": 0
+    },
+    {
+      "families": 2,
+      "added": "leipzig",
+      "kept": 0,
+      "share": 0,
+      "gained": 0
+    },
+    {
+      "families": 3,
+      "added": "internetarchive",
+      "kept": 76273,
+      "share": 0.376304,
+      "gained": 76273
+    },
+    {
+      "families": 4,
+      "added": "tatoeba",
+      "kept": 82209,
+      "share": 0.40559,
+      "gained": 5936
+    },
+    {
+      "families": 5,
+      "added": "literaturairmenas.lt",
+      "kept": 85341,
+      "share": 0.421042,
+      "gained": 3132
+    },
+    {
+      "families": 6,
+      "added": "diena.lt",
+      "kept": 86879,
+      "share": 0.42863,
+      "gained": 1538
+    },
+    {
+      "families": 7,
+      "added": "15min.lt",
+      "kept": 88024,
+      "share": 0.434279,
+      "gained": 1145
+    },
+    {
+      "families": 8,
+      "added": "ebible",
+      "kept": 88937,
+      "share": 0.438783,
+      "gained": 913
+    },
+    {
+      "families": 9,
+      "added": "delfi.lt",
+      "kept": 89681,
+      "share": 0.442454,
+      "gained": 744
+    },
+    {
+      "families": 10,
+      "added": "lrt.lt",
+      "kept": 90193,
+      "share": 0.44498,
+      "gained": 512
+    },
+    {
+      "families": 11,
+      "added": "vz.lt",
+      "kept": 90477,
+      "share": 0.446381,
+      "gained": 284
+    },
+    {
+      "families": 12,
+      "added": "respublika.lt",
+      "kept": 90625,
+      "share": 0.447111,
+      "gained": 148
+    },
+    {
+      "families": 13,
+      "added": "lrytas.lt",
+      "kept": 90749,
+      "share": 0.447723,
+      "gained": 124
+    }
+  ]
+}
